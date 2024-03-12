@@ -16,7 +16,7 @@ Sup, I'm Sangam Adhikari
 ### :man_technologist: &nbsp;About Me :
 I build with Flutter. I write blogs. I study CS. I never stop learning new things.
 - 🔭 Building Flutter Apps at **Pine Softwares**
-- 🌱 Always learning - currently **PHP and Python**
+- 🌱 Always learning - currently **PHP and Laravel**
 - 💬 **Flutter, PHP, Java, Python** - let's talk code!
 - 🌎 Open to remote work opportunities
 - ⚡ When I'm not coding, you can find me jamming to music or catching movies
