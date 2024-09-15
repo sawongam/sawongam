@@ -16,8 +16,8 @@ Sup, I'm Sangam Adhikari
 ### :man_technologist: &nbsp;About Me :
 I build with Flutter. I write blogs. I study CS. I never stop learning new things.
 <!--- 🔭 Building Flutter Apps at **Black Tech** -->
-- 🌱 Always learning - currently **PHP and Laravel**
-- 💬 **Flutter, Dart, PHP, Java,** - let's talk code!
+- 🌱 Always learning - currently **NestJs**
+- 💬 **Flutter, PHP, Java, Js** - let's talk code!
 - 🌎 Open to remote work opportunities
 - ⚡ When I'm not coding, you can find me jamming to music or catching movies
 
@@ -52,8 +52,8 @@ Never stop learning, never stop growing. Level up something new every day!
 ### 📈 GitHub Activity Graph:
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sawongam&show_icons=true" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=sawongam&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawongam&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawongam&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-stats.sangamadhikari.com/api?username=sawongam&show_icons=true" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-stats.sangamadhikari.com/api?username=sawongam&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-stats.sangamadhikari.com/api/top-langs/?username=sawongam&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-stats.sangamadhikari.com/api/top-langs/?username=sawongam&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=default"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=tokyonight"/></a></td>
