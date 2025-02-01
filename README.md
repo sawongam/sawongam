@@ -14,10 +14,10 @@ Sup, I'm Sangam Adhikari
 
 <!-- About Me -->
 ### :man_technologist: &nbsp;About Me :
-I build with Flutter. I write blogs. I study CS. I never stop learning new things.
+I build with Flutter. I write blogs. I never stop learning new things.
 <!--- 🔭 Building Flutter Apps at **Black Tech** -->
-- 🌱 Always learning - currently **NestJs**
-- 💬 **Flutter, PHP, Java, Js** - let's talk code!
+- 🌱 Always learning - currently diving into **NestJS** and backend development.
+- 💬 **Flutter, PHP, Java** - let's talk code!
 - 🌎 Open to remote work opportunities
 - ⚡ When I'm not coding, you can find me jamming to music or catching movies
 
@@ -30,21 +30,27 @@ Never stop learning, never stop growing. Level up something new every day!
 <br>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp; -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </p>
+
+---
+
+---
+
+<!-- Working Environment -->
+### 👷 &nbsp;Working Environment:
+<br>
+<p>
+    <img alt="OS" src="https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=arch%20linux&logoColor=white&labelColor=333333" /> 
+    <img alt="Window Manager" src="https://img.shields.io/badge/Hyprland-064553?style=for-the-badge&logo=wayland&logoColor=white&labelColor=333333" /> 
+    <img alt="IDE" src="https://img.shields.io/badge/Android_Studio-44c484?style=for-the-badge&logo=android%20studio&logoColor=white&labelColor=333333" /> 
+    <img alt="Laptop" src="https://img.shields.io/badge/Ripple_Raze_Pro-00649B?style=for-the-badge&logo=r&logoColor=white&labelColor=333333" /> 
+    <img alt="GPU" src="https://img.shields.io/badge/Nvidia_3050_Max_Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=333333" />
+</p>
+
 
 ---
 
