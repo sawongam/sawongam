@@ -6,14 +6,14 @@ Sup, I'm Sangam Adhikari
 <br/>
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;%20Founder%20and%20Content%20Writer%20of%20sawongam.co;Computer+Science+Student;Music%20|%20Movie%20|%20Sports%20|%20%20Enthusiastic&center=true&width=480&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;%20Founder,%20Content%20Writer%20of%20sawongam.co;Computer+Science+Student;Music%20|%20Movie%20|%20Sports%20|%20%20Enthusiastic&center=true&width=480&height=45"></a>
 </p>
 <hr/>
 
 
 
 <!-- About Me -->
-### :man_technologist: &nbsp;About Me :I build with Flutter. I write blogs. I never stop learning new thing
+### :man_technologist: &nbsp;About Me :
 I build with Flutter. I write blogs. I never stop learning new things.
 <!--- 🔭 Building Flutter Apps at **Black Tech** -->
 - 🌱 Always learning - currently diving into **NestJS** and backend development.
