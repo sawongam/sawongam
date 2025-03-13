@@ -51,22 +51,32 @@
 <p align="left">
     <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" />
     <img src="https://img.shields.io/badge/Hyprland-%2300758F.svg?style=for-the-badge&logo=wayland&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kitty-%23E7E7E7.svg?style=for-the-badge&logo=windows-terminal&logoColor=black" />
     <img src="https://img.shields.io/badge/Android%20Studio-%23323330.svg?style=for-the-badge&logo=android-studio&logoColor=green" />
 </p>
 
 ---
 
-### **🚀 Connect With Me**  
+## **🚀 Connect With Me**  
 📧 **Email:** [info@sangamadhikari.com](mailto:info@sangamadhikari.com)  
 🌐 **Portfolio:** [sangamadhikari.com](https://sangamadhikari.com)  
 🔗 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
 
 ---
 
-## **📊 GitHub Activity**  
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=tokyonight" alt="Streak Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawongam&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+<!-- Activity Graph -->
+## 📈 GitHub Activity Graph:
+<table>
+</tr>
+        <td colspan="3" align="center"> <a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=default"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=tokyonight"/></a> </td>
+    <tr>
+        <td align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-stats.sangamadhikari.com/api?username=sawongam&show_icons=true" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-stats.sangamadhikari.com/api?username=sawongam&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-stats.sangamadhikari.com/api/top-langs/?username=sawongam&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-stats.sangamadhikari.com/api/top-langs/?username=sawongam&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="1" align="center"><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-stats.sangamadhikari.com/api/wakatime?username=sawongam&theme=tokyonight&langs_count=4" alt="My GitHub Stats"/></a></td>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    </tr>
+    <tr>
+</table>
