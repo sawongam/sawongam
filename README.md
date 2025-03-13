@@ -1,73 +1,72 @@
-<!-- Header -->
-<h1 align="center">
-Sup, I'm Sangam Adhikari
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=sawongam&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="sawongam" />
-<br/>
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;%20Founder,%20Content%20Writer%20of%20sawongam.co;Computer+Science+Student;Music%20|%20Movie%20|%20Sports%20|%20%20Enthusiastic&center=true&width=480&height=45"></a>
-</p>
-<hr/>
-
-
-
-<!-- About Me -->
-### :man_technologist: &nbsp;About Me :
-I build with Flutter. I write blogs. I never stop learning new things.
-<!--- 🔭 Building Flutter Apps at **Black Tech** -->
-- 🌱 Always learning - currently diving into **NestJS** and backend development.
-- 💬 **Flutter, PHP, Java** - let's talk code!
-- 🌎 Open to remote work opportunities
-- ⚡ When I'm not coding, you can find me jamming to music or catching movies
-
-Never stop learning, never stop growing. Level up something new every day!
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Flutter+Developer;Building+Scalable+Apps;Founder+of+Sawongam.com;Tech+Enthusiast;Loves+Music%2C+Movies%2C+and+Sports;&center=true&width=600&height=40">
+  </a>
+</p>  
 
 ---
 
-<!-- Tech Stack -->
-### 🛠 &nbsp;Tech Stack :
-<br>
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+## **🚀 About Me**  
+- 🏠 **Flutter Developer** | Scaling mobile experiences with **Bloc, Provider & Clean Architecture**  
+- 💻 **Also into Backend Development** | .NET, PHP
+- 🚀 **Currently Exploring:** Node.JS & Backend Development 
+- 💬 **Love talking about:** Flutter, DevOps, System Design  
+- 🎵 **Vibes:** Music, Movies, and Sports (while coding, of course 🤓)  
+- 🌎 **Open to remote work opportunities**  
+
+> **"Never stop learning, never stop growing. Level up every day!"**  
+
+---
+
+## **⚡ Tech Stack**  
+
+### **📲 Mobile Development**  
+<p align="left">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
----
-
----
-
-<!-- Working Environment -->
-### 👷 &nbsp;Working Environment:
-<br>
-<p>
-    <img alt="OS" src="https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=arch%20linux&logoColor=white&labelColor=333333" /> 
-    <img alt="Window Manager" src="https://img.shields.io/badge/Hyprland-064553?style=for-the-badge&logo=wayland&logoColor=white&labelColor=333333" /> 
-    <img alt="IDE" src="https://img.shields.io/badge/Android_Studio-44c484?style=for-the-badge&logo=android%20studio&logoColor=white&labelColor=333333" /> 
-    <img alt="Laptop" src="https://img.shields.io/badge/Ripple_Raze_Pro-00649B?style=for-the-badge&logo=r&logoColor=white&labelColor=333333" /> 
-    <img alt="GPU" src="https://img.shields.io/badge/Nvidia_3050_Max_Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=333333" />
+### **🖥 Web Development**  
+<p align="left">
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
+### **🛠 Backend Development**  
+<p align="left"> 
+    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> 
+</p>
+
+### **⚙️ DevOps & CI/CD**  
+<p align="left">
+    <img src="https://img.shields.io/badge/Github Actions-%232C3E50.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codemagic-%23ff3cb4.svg?style=for-the-badge&logo=codemagic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shorebird-%2300758F.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+
+</p>
+
+### **🖥️ Working Environment**  
+<p align="left">
+    <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hyprland-%2300758F.svg?style=for-the-badge&logo=wayland&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kitty-%23E7E7E7.svg?style=for-the-badge&logo=windows-terminal&logoColor=black" />
+    <img src="https://img.shields.io/badge/Android%20Studio-%23323330.svg?style=for-the-badge&logo=android-studio&logoColor=green" />
+</p>
 
 ---
 
-<!-- Activity Graph -->
-### 📈 GitHub Activity Graph:
-<table>
-</tr>
-        <td colspan="3" align="center"> <a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=default"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=tokyonight"/></a> </td>
-    <tr>
-        <td align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-stats.sangamadhikari.com/api?username=sawongam&show_icons=true" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-stats.sangamadhikari.com/api?username=sawongam&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://github-stats.sangamadhikari.com/api/top-langs/?username=sawongam&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-stats.sangamadhikari.com/api/top-langs/?username=sawongam&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="1" align="center"><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://github-stats.sangamadhikari.com/api/wakatime?username=sawongam&theme=tokyonight&langs_count=4" alt="My GitHub Stats"/></a></td>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    </tr>
-    <tr>
-</table>
+### **🚀 Connect With Me**  
+📧 **Email:** [info@sangamadhikari.com](mailto:info@sangamadhikari.com)  
+🌐 **Portfolio:** [sangamadhikari.com](https://sangamadhikari.com)  
+🔗 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+
+---
+
+## **📊 GitHub Activity**  
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawongam&theme=tokyonight" alt="Streak Stats" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawongam&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
