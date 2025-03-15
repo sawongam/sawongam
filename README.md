@@ -59,7 +59,7 @@
 ## **🚀 Connect With Me**  
 📧 **Email:** [info@sangamadhikari.com](mailto:info@sangamadhikari.com)  
 🌐 **Portfolio:** [sangamadhikari.com](https://sangamadhikari.com)  
-🔗 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+🔗 **LinkedIn:** [LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sawongam/))  
 
 ---
 
