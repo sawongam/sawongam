@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Flutter+Developer;Building+Scalable+Apps;Founder+of+Sawongam.com;Tech+Enthusiast;Loves+Music%2C+Movies%2C+and+Sports;&center=true&width=600&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Building+Scalable+Apps;Founder+of+sawongam.com;Tech+Enthusiast;Loves+Music%2C+Movies%2C+and+Sports;&center=true&width=600&height=40">
   </a>
 </p>  
 
