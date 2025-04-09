@@ -9,9 +9,9 @@
 
 ## **🚀 About Me**  
 - 🏠 **Flutter Developer** | Scaling mobile experiences with **Bloc, Provider & Clean Architecture**  
-- 💻 **Also into Backend Development** | .NET, PHP
-- 🚀 **Currently Exploring:** Node.JS & Backend Development 
-- 💬 **Love talking about:** Flutter, DevOps, System Design  
+- 💻 **Also into Backend Development** | .NET, Node.Js
+- 🚀 **Currently Exploring:** Node.Js & Backend Development 
+- 💬 **Love talking about:** Flutter, DevOps, Solving Weird Bugs
 - 🎵 **Vibes:** Music, Movies, and Sports (while coding, of course 🤓)  
 - 🌎 **Open to remote work opportunities**  
 
@@ -36,7 +36,6 @@
 <p align="left"> 
     <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> 
 </p>
 
 ### **⚙️ DevOps & CI/CD**  
