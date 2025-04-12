@@ -11,8 +11,8 @@
 - 🏠 **Flutter Developer** | Scaling mobile experiences with **Bloc, Provider & Clean Architecture**  
 - 💻 **Also into Backend Development** | .NET, Node.Js
 - 🚀 **Currently Exploring:** Node.Js & Backend Development 
-- 💬 **Love talking about:** Flutter, DevOps, Solving Weird Bugs
-- 🎵 **Vibes:** Music, Movies, and Sports (while coding, of course 🤓)  
+- 💬 **Love talking about:** Flutter, DevOps, Solving weird bugs
+- 🎵 **Vibes:** Music, Movies, and Sports
 - 🌎 **Open to remote work opportunities**  
 
 > **"Never stop learning, never stop growing. Level up every day!"**  
