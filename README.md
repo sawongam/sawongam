@@ -8,10 +8,10 @@
 ---
 
 ## **🚀 About Me**  
-- 🏠 **Flutter Developer** | Scaling mobile experiences with **Bloc, Provider & Clean Architecture**  
-- 💻 **Also into Backend Development** | .NET, Node.Js
-- 🚀 **Currently Exploring:** Node.Js & Backend Development 
-- 💬 **Love talking about:** Flutter, DevOps, Solving weird bugs
+- 🏠 **Flutter Developer** | Building Scalable Mobile & Web Apps 
+- 💻 **Also into Backend Development** | NestJS, .NET
+- 🚀 **Currently Exploring:** Advanced backend systems & scalable cloud architectures
+- 💬 **Love talking about:** Flutter, DevOps, Creatively crashing production environments
 - 🎵 **Vibes:** Music, Movies, and Sports
 - 🌎 **Open to remote work opportunities**  
 
@@ -34,8 +34,8 @@
 
 ### **🛠 Backend Development**  
 <p align="left"> 
+      <img src="https://img.shields.io/badge/NestJS-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" /> 
     <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" /> 
 </p>
 
 ### **⚙️ DevOps & CI/CD**  
@@ -57,8 +57,8 @@
 
 ## **🚀 Connect With Me**  
 📧 **Email:** [info@sangamadhikari.com](mailto:info@sangamadhikari.com)  
-🌐 **Portfolio:** [sangamadhikari.com](https://sangamadhikari.com/#portfolio)  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sawongam/)
+🌐 **Portfolio:** [sangamadhikari.com/portfolio](https://sangamadhikari.com/#portfolio)  
+🔗 **LinkedIn:** [linkedin.com/in/sawongam](https://www.linkedin.com/in/sawongam/)
 
 ---
 
