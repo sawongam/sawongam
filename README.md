@@ -9,7 +9,7 @@
 
 ## **🚀 About Me**  
 - 🏠 **Flutter Developer** | Building Scalable Mobile & Web Apps 
-- 💻 **Also into Backend Development** | NestJS, .NET
+- 💻 **Also into Backend Development** | NestJS, Node.js
 - 🚀 **Currently Exploring:** Advanced backend systems & scalable cloud architectures
 - 💬 **Love talking about:** Flutter, DevOps, Creatively crashing production environments
 - 🎵 **Vibes:** Music, Movies, and Sports
@@ -35,7 +35,6 @@
 ### **🛠 Backend Development**  
 <p align="left"> 
       <img src="https://img.shields.io/badge/NestJS-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" /> 
 </p>
 
 ### **⚙️ DevOps & CI/CD**  
