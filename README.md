@@ -51,6 +51,6 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="contribution snake" width="100%" /></a>
+<a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="contribution snake" width="100%" /></a>
 <a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" width="100%" /></a>
 </div>
