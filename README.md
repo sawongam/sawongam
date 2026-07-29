@@ -50,14 +50,7 @@
 
 </div>
 
-<br>
-
-## Trophies
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sawongam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<a href="https://github.com/sawongam#gh-light-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="contribution snake" width="100%" /></a>
+<a href="https://github.com/sawongam#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/sawongam/sawongam/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" width="100%" /></a>
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
