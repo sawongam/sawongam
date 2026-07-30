@@ -6,38 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Flutter+Full-Stack+Developer;Breaking+things%2C+fixing+them+better;Occasionally+survives+production+bugs;Shipping+real-world+apps" alt="Typing SVG" />
 </picture>
 
-<br><br>
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=sawongam&label=Profile%20Views&color=161b22&style=for-the-badge&labelColor=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=sawongam&label=Profile%20Views&color=e8e8e8&style=for-the-badge&labelColor=f5f5f5" />
-  <img src="https://komarev.com/ghpvc/?username=sawongam&label=Profile%20Views&color=161b22&style=for-the-badge&labelColor=0d1117" />
-</picture>
-
-<a href="https://www.linkedin.com/in/sawongam/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-f5f5f5?style=for-the-badge&logo=linkedin&logoColor=0969DA" />
-  <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
-</picture>
-</a>
-<a href="mailto:info@sangamadhikari.com">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-f5f5f5?style=for-the-badge&logo=gmail&logoColor=0969DA" />
-  <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff" />
-</picture>
-</a>
-<a href="https://sangamadhikari.com/#portfolio">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-f5f5f5?style=for-the-badge&logo=vercel&logoColor=0969DA" />
-  <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=58a6ff" />
-</picture>
-</a>
+<img src="https://komarev.com/ghpvc/?username=sawongam&label=PROFILE+VIEWS&style=for-the-badge&color=1a1a2e&labelColor=2d2d44" />
+<a href="https://www.linkedin.com/in/sawongam/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMDA3N0I1Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0OWMuNDc2LS45IDEuNjM3LTEuODUgMy4zNjYtMS44NSAzLjU5OSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&logoColor=0A66C2" /></a>
+<a href="mailto:info@sangamadhikari.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=4285F4" /></a>
+<a href="https://sangamadhikari.com/#portfolio"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=58A6FF" /></a>
 
 </div>
-<br>
 
 ## About
 - 🏠 **Flutter Developer** | Building fast, maintainable mobile and web apps
